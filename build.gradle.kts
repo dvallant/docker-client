@@ -9,7 +9,7 @@ plugins {
 val dependencyVersions = listOf(
   "net.bytebuddy:byte-buddy:1.12.10",
   "org.codehaus.groovy:groovy:3.0.10",
-  "org.jetbrains:annotations:23.0.0"
+  "org.jetbrains:annotations:24.0.1"
 )
 
 val dependencyVersionsByGroup = mapOf<String, String>()
